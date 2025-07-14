@@ -63,7 +63,13 @@ ai-video-generator/
 
 ## 🎥 Demo Video
 
-[🎬 Click here to view the final demo video](https://github.com/Nexalytic/ai-video-generator/blob/main/saved_videos/final_demo_video.mp4)
+You can find the final demo video inside the `saved_videos` folder:
+`saved_videos/final_demo_video.mp4`
+
+To watch it:
+- Click the file, then on the top right corner, click the three dots (⋯)
+- Then click "View file"
+- Then click `View raw` to download and view it
 
 
 #🤝 About Me
