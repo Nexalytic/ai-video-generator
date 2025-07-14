@@ -61,7 +61,7 @@ ai-video-generator/
 📌 Prompt: What are black holes?
 🎬 Result: A short 8-line text-based video explaining black holes with voice-over, ready to download and share.
 
-#Demo Video
+## 🎥 Demo Video
 
 👉 [Click here to view the final demo video](https://github.com/Nexalytic/ai-video-generator/blob/main/saved_videos/final_demo_video.mp4)
 
