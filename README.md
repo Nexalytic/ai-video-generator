@@ -63,7 +63,7 @@ ai-video-generator/
 
 ## 🎥 Demo Video
 
-👉 [Click here to view the final demo video](https://github.com/Nexalytic/ai-video-generator/blob/main/saved_videos/final_demo_video.mp4)
+[🎬 Click here to view the final demo video](https://github.com/Nexalytic/ai-video-generator/blob/main/saved_videos/final_demo_video.mp4)
 
 
 #🤝 About Me
