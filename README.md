@@ -1,9 +1,6 @@
-# 🎬 VocaVisio AI — Prompt-to-Video Generator with Voiceover
+# 🎥 AI Video Generator
 
-**VocaVisio AI** is an AI-powered tool that converts any topic into a short, engaging text-based video with synchronized voice narration using Google Gemini and gTTS, all rendered smoothly using Manim.
-
-
-> 💼 Built as a personal showcase project to apply for remote developer jobs.
+A prompt-to-video tool built using **Gemini API**, **Manim**, and **gTTS** that converts user prompts into short, narrated educational videos.
 
 ---
 
@@ -24,9 +21,10 @@
 Follow these exact steps:
 
 ```bash
-# 1. Clone this project
-git clone https://github.com/yourusername/vocavisio-ai.git
-cd vocavisio-ai
+# 1. Clone the Repository
+```bash
+git clone https://github.com/Nexalytic/ai-video-generator.git
+cd ai-video-generator
 
 # 2. Create and activate virtual environment (Windows)
 python -m venv venv
@@ -41,36 +39,49 @@ flask --app app.py run
 Then open your browser and go to:
 👉 http://127.0.0.1:5000
 
-🗂️ Project Folder Structure
+#🗂️ Project Folder Structure
+
 ai-video-generator/
 ├── app.py
+├── gemini_test.py
+├── generated_scene.py
 ├── manim_generator.py
+├── hello.py
+├── index.html
 ├── requirements.txt
-├── README.md
-└── templates/
-    └── index.html
+├── saved_videos/
+│   └── final_demo_video.mp4
+├── .gitignore
+├── .env.example
+└── README.md
             
 
-🌐 Demo Use Case
+# Demo Use Case
+
 📌 Prompt: What are black holes?
 🎬 Result: A short 8-line text-based video explaining black holes with voice-over, ready to download and share.
 
-🤝 Seeking Opportunities
-Hi, I’m [Deepak raj], a passionate developer transitioning into tech, and this project showcases my ability to build functional, real-world AI tools end to end.
+#Demo Video
 
-I’m actively seeking remote developer opportunities, especially in Python, AI SaaS, or automation-focused teams.
+👉 [Click here to view the final demo video](https://github.com/Nexalytic/ai-video-generator/blob/main/saved_videos/final_demo_video.mp4)
 
-If you find this project interesting or want to collaborate, feel free to reach out! 😊
+#🤝 About Me
 
-📬 Contact Me
-📧 Email: [deepakraj4198@gmai.com]
+Hi, I’m Deepak Raj, a passionate Python developer transitioning into tech.
+This project shows my ability to build complete AI tools — from backend logic to frontend UI and deployment-ready structure.
 
-💻 GitHub: [https://github.com/Nexalytic]
+I'm currently open to remote developer roles in:
 
-## 🎥 Demo Video
+Python
 
-👉 Here's a sample output of the project:
+AI SaaS
 
-[Click here to view demo video](https://github.com/yourusername/your-repo-name/blob/main/saved_videos/final_demo_video.mp4)
+Automation tools
 
+#📬 Contact
 
+📧 Email: [deepakraj4198@gmail.com] 
+
+💻 GitHub: https://github.com/Nexalytic
+
+⭐ If you found this project helpful or want to collaborate, feel free to connect!
