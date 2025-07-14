@@ -1,0 +1,5 @@
+Flask==2.3.3
+gTTS==2.3.2
+manim==0.18.0
+moviepy==1.0.3
+python-dotenv==1.0.1
